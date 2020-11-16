@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Sesha, Full-Stack web developer, Programmer, Laravel Artisan, and Vuejs Enthusiast. 
+
+- 📫 How to reach me: ...
+Ping me on twitter: [@seshaCS](https://twitter.com/seshacs)
 <!--
 **seshac/seshac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
