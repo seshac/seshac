@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sesha, Full-Stack web developer, Programmer, Laravel Artisan, and Vuejs Enthusiast. 
+I'm Sesha, Full-Stack web developer, Programmer, Laravel & Symfony Artisan, and Typescript & Vuejs Enthusiast. 
 
 - 📫 How to reach me: ...
 Ping me on twitter: [@seshaCS](https://twitter.com/seshacs)
